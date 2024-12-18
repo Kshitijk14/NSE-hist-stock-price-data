@@ -69,25 +69,25 @@ pip install -r requirements.txt
 
 Analysis of RELIANCE stock price anomalies:
 
-1. **June 9, 2022 (₹2583.25)**
-   - Requires investigation of news events
-   - Analysis of industry trends
-
-2. **August 14, 2023 (₹2577.25)**
-   - Market conditions analysis
-   - Company-specific factor review
-
-3. **June 3, 2022 (₹2565.48)**
+1. **June 3, 2022 (₹2565.48)**
    - Technical analysis review
    - Market sentiment assessment
 
-4. **June 7, 2022 (₹2559.25)**
+2. **June 6, 2022 (₹2554.45)**
+   - Sector performance comparison
+   - Investor behavior analysis
+
+3. **June 7, 2022 (₹2559.25)**
    - Trading activity analysis
    - Market volatility review
 
-5. **June 6, 2022 (₹2554.45)**
-   - Sector performance comparison
-   - Investor behavior analysis
+4. **June 9, 2022 (₹2583.25)**
+   - Requires investigation of news events
+   - Analysis of industry trends
+
+5. **August 14, 2023 (₹2577.25)**
+   - Market conditions analysis
+   - Company-specific factor review
 
 ## Future Work
 - Implementation of real-time anomaly detection
